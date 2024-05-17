@@ -3,7 +3,7 @@
 // @version      5.2.2
 // @description  (Crackware) a mod for shellshockers.io with aimbot,esp, and unlock all skins
 // @author       TDStuart
-// @match        https://shellshock.io/*
+// @match        https://mathfun.rocks/*
 // @grant        none
 // @namespace https://greasyfork.org/users/727080
 // ==/UserScript==
